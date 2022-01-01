@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing Master's in Data Science from **[University of Bath, UK.](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)**
 
-- 🌱 I’m currently learning **Everything I can about Data Science.**  
+- 🌱 I’m currently trying to learn **Everything I can about Data Science.**  
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Feel free to check my **[Portfolio](https://www.datacamp.com/profile/suhaibrehman98)**
